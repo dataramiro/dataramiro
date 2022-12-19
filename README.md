@@ -1,4 +1,4 @@
-## Olá! Eu nome é Bruna Ramiro e eu sou analista de dados
+## Olá! 
 
 <div align="center">
   <a href="https://github.com/dataramiro">
