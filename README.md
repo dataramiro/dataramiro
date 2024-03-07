@@ -12,7 +12,6 @@
   <img align="center" alt="data-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="data-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="data-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="data-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
   <img align="center" alt="data-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 
 
